@@ -70,6 +70,7 @@ main {
     margin-top: 15px;
     float: left;
     overflow: auto;
+
 }
 
 .card {
@@ -99,7 +100,6 @@ main {
 .content-header {
     border-bottom: 2px solid #ccc;
     padding: 10px;
-    
     background: #eee;
 }
 
